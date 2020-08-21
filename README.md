@@ -9,7 +9,7 @@ For each such node, generate all possible paths that originate from that node
 
 Algorithm:
 
-  1.While taking an input we maintain 2 thinf
+  1.While taking an input we maintain 2 things
   
   
     1.1 inDegree of all nodes -> int a[]
@@ -56,6 +56,10 @@ Algorithm:
           
           
           //for backtrack
+          
+          
+  Time : O(N^2)
+  Space : O(N)
           
         
       
