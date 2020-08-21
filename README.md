@@ -10,6 +10,8 @@ For each such node, generate all possible paths that originate from that node
 Algorithm:
 
   1.While taking an input we maintain 2 thinf
+  
+  
     1.1 inDegree of all nodes -> int a[]
     
     1.2 List representation for the Graph -> List<Integer>[] nodes
